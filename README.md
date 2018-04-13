@@ -1,5 +1,5 @@
 <html>
-  <body>
+  <body style="background-color:powderblue;">
     <img src="logo.PNG" alt="Elite Health and Beaty Logo">
     <ul>
       <a href="index.php">Home</a> |
