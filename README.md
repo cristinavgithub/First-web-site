@@ -7,7 +7,7 @@
         <a href="stores.php">Stores</a> |
         <a href="cart.php">Shopping Cart</a> |
         <a href="about.php">About Us</a> |
-      <a href="contact.php">Contacts</a>
+      <a href="contact.php">Contacts</a><hr>
       <br>
       <p>Welcome to the one stop place where you will access every type of medical and health supplements to improve your health.<br>
 We have a wide range of products including beauty reams, ointments, lotions, powders, stimulants, and food supplements.<br>
@@ -20,7 +20,7 @@ Our dedicated sales team will offer you all the help you need to purchase the ri
        <img src="green-beauty-.jpg" width="300" height="170">
       <br>
       <h1 style="color:brown"> Natural Skin Products </h1>
-      <img src="skin.jpg" width="300" height="170">
+      <img src="skin.jpg" width="300" height="170"><br><br>
   </body>
     <footer>Copyright | About Us| Contacts | Sitemap | Privacy Policy</footer>
   </html>
