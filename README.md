@@ -22,5 +22,5 @@ Our dedicated sales team will offer you all the help you need to purchase the ri
       <h1 style="color:brown"> Natural Skin Products </h1>
       <img src="skin.jpg" width="300" height="170">
   </body>
-    
+    <footer>Copyright | About Us| Contacts | Sitemap | Privacy Policy</footer>
   </html>
