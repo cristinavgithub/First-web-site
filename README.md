@@ -13,13 +13,13 @@
 We have a wide range of products including beauty reams, ointments, lotions, powders, stimulants, and food supplements.<br>
 Browse our extensive catalogue for your desired product and we will deliver it right into your door step.<br>
 Our dedicated sales team will offer you all the help you need to purchase the right product<br>
-      <h1 style="color:blue;"> Health Products</h1>
+      <h1 style="color:brown"> Health Products</h1>
        <img src="health-beauty-products-3-h350_orig.jpg" width="300" height="170">
       <br>
-       <h1 style="color:blue;"> Beauty Products</h1>
+       <h1 style="color:brown"> Beauty Products</h1>
        <img src="green-beauty-.jpg" width="300" height="170">
       <br>
-      <h1 style="color:blue;"> Natural Skin Products </h1>
+      <h1 style="color:brown"> Natural Skin Products </h1>
       <img src="skin.jpg" width="300" height="170">
   </body>
     
