@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="logo.png" alt="Elite Health and Beaty Logo">
+    <img src="logo.PNG" alt="Elite Health and Beaty Logo">
     <ul>
       <a href="index.php">Home</a>
       <a href="prodcuts.php">Products</a>
@@ -17,7 +17,7 @@ Our dedicated sales team will offer you all the help you need to purchase the ri
        <img src="health-beauty-products-3-h350_orig.jpg">
       <br>
        <h1> Beauty Products</h1>
-       <img src="green-beauty.jpg">
+       <img src="green-beauty-.jpg">
       <br>
       <h1> Natural Skin Products </h1>
       <img src="skin.jpg">*/
