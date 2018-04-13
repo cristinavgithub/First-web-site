@@ -2,12 +2,12 @@
   <body>
     <img src="logo.PNG" alt="Elite Health and Beaty Logo">
     <ul>
-      <a href="index.php">Home</a>
-      <a href="prodcuts.php">Products</a>
-      <a href="stores.php">Stores</a>
-      <a href="cart.php">Shopping Cart</a>
-      <a href="about.php">About Us</a>
-      <a href="contact.php">Contacts</a>
+      <a href="index.php"><h2>Home</h2></a> |
+      <a href="prodcuts.php"><h2>Products<h2></a> |
+        <a href="stores.php"><h2>Stores</h2></a> |
+        <a href="cart.php"><h2>Shopping Cart</h2></a> |
+        <a href="about.php"><h2>About Us</h2></a> |
+      <a href="contact.php"><h2>Contacts<h2></a>
       <br>
       <p>Welcome to the one stop place where you will access every type of medical and health supplements to improve your health.<br>
 We have a wide range of products including beauty reams, ointments, lotions, powders, stimulants, and food supplements.<br>
